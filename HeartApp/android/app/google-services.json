@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107308185774",
+    "project_id": "the-heart-app",
+    "storage_bucket": "the-heart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107308185774:android:86b283afc7cb5bd72f153f",
+        "android_client_info": {
+          "package_name": "com.technochord.theheartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107308185774-8sts9le2feg8as5oiqdbfo8ap3qsgs7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technochord.theheartapp",
+            "certificate_hash": "fbac04532a0d33f4eaf7fe687dbdb9655b3709f5"
+          }
+        },
+        {
+          "client_id": "107308185774-q2r31i9druib91hr7bt8ek642lmmkmuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JbtmhgzWPNJf2__18wlvD-xwgXkvjKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107308185774-q2r31i9druib91hr7bt8ek642lmmkmuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
